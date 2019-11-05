@@ -194,7 +194,7 @@
   height: 50vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.3)), to(rgba(39, 39, 39, 0.2))), url("../img/image-2.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.3), rgba(39, 39, 39, 0.2)), url("../img/image-2.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.3), rgba(39, 39, 39, 0.2)), url("../img/image-1.jpg") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
